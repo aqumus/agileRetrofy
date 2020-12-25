@@ -1,0 +1,3 @@
+{
+  "*.{ts,tsx,js,jsx}": ["eslint --no-ignore --max-warnings=0"]
+}
